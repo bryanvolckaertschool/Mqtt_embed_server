@@ -1,0 +1,3 @@
+/home/pi/embed/MQTT_embed_server/website/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embed/MQTT_embed_server/website/Build/CMakeFiles/ENV-CGI.dir
+/home/pi/embed/MQTT_embed_server/website/Build/CMakeFiles/edit_cache.dir

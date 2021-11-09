@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/MQTT_embed_server.dir/main.c.o  -o MQTT_embed_server  -lpaho-mqtt3c -lPJ_RPI -lmariadb 
